@@ -11,7 +11,7 @@ function BoardMember(name, homeState, training){
   this.doCharity = function(){
     return "I like to help people.";
   }
-  this.veto = function(){
+  this.releasePressStatement = function(){
     return "No, I must disagree";
   }
   this.veto = function(){
