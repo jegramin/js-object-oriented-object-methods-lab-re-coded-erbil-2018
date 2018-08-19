@@ -12,7 +12,7 @@ function BoardMember(name, homeState, training){
     return "I like to help people.";
   }
   this.releasePressStatement = function(){
-    return "No, I must disagree";
+    return "You will see great things from Scuber.";
   }
   this.veto = function(){
     return "No, I must disagree";
