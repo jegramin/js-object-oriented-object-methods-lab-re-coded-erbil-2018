@@ -14,7 +14,7 @@ function BoardMember(name, homeState, training){
   this.releasePressStatement = function(){
     return "You will see great things from Scuber.";
   }
-  this.veto = function(){
+  this.sayHi = function(){
     return "No, I must disagree";
   }
 }
